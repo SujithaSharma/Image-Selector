@@ -1,13 +1,9 @@
-.h-330 {
-    height: 330px;
+#carousel-outer {
+    width: 500px;
+    margin: 0 auto;
 }
 
-.carousel-caption {
-    left: 0;
-    width: 100%;
-    text-align: center;
-}
-
-.carousel-indicators {
-    margin-bottom: 0%;
+.w-100 {
+    width: 500px;
+    height: 340px;
 }
