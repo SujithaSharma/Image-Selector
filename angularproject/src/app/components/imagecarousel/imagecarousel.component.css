@@ -7,3 +7,41 @@
     width: 500px;
     height: 340px;
 }
+
+.btn {
+    width: 50%;
+}
+
+.carousel-caption {
+    bottom: 35px
+}
+
+.carousel-indicators {
+    bottom: 51px;
+}
+
+.btn {
+    position: absolute;
+    bottom: 0px;
+}
+
+.btn-danger {
+    right: 0
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    height: fit-content;
+    margin-top: 4cm;
+}
+
+.empty-page {
+    width: 500px;
+    height: 340px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 3px solid black;
+    margin: 0 auto;
+    text-align: center;
+}

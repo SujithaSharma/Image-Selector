@@ -6,5 +6,7 @@ import { Component, Input } from '@angular/core';
   styleUrls: ['./datacards.component.css']
 })
 export class DatacardsComponent {
-  @Input() total: any
+  @Input() totalImg: any;
+  @Input() selectedImg: any;
+  @Input() rejectedImg: any
 }
